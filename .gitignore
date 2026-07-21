@@ -1,0 +1,11 @@
+# 秘密情報（Webhook URL などを書く実ファイル。絶対にコミットしない）
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS
+.DS_Store
