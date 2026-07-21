@@ -1,4 +1,3 @@
-# 秘密情報（Webhook URL などを書く実ファイル。絶対にコミットしない）
 .env
 
 # Python
